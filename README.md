@@ -13,7 +13,7 @@ sudo apt-get install python3-matplotlib
 sudo apt-get install python3-pandas
 ```
 
-Se preferir usar o instalador do python 3 (pip3):
+Se preferir usar o instalador do Python 3 (pip3):
 ```
 pip3 install pyqt5
 pip3 install matplotlib
@@ -35,10 +35,7 @@ Carregue um arquivo .tr válido.
 
 * [Matplotlib](https://matplotlib.org/3.1.1/contents.html) - Gráficos
 * [Pandas](https://pandas.pydata.org/docs/) - CSV
-<<<<<<< HEAD
 * [Pandas Model](https://github.com/eyllanesc/stackoverflow/tree/master/questions/44603119) - Para tabelas no PyQt
-=======
->>>>>>> b96af312c073d07976c2c28f4fefd1cc645eddde
 
 ### Autor
 
