@@ -1,4 +1,3 @@
-# https://github.com/eyllanesc/stackoverflow/tree/master/questions/44603119 referenciar
 
 from PyQt5 import QtCore
 
