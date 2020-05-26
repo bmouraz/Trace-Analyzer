@@ -35,7 +35,10 @@ Carregue um arquivo .tr válido.
 
 * [Matplotlib](https://matplotlib.org/3.1.1/contents.html) - Gráficos
 * [Pandas](https://pandas.pydata.org/docs/) - CSV
+<<<<<<< HEAD
 * [Pandas Model](https://github.com/eyllanesc/stackoverflow/tree/master/questions/44603119) - Para tabelas no PyQt
+=======
+>>>>>>> b96af312c073d07976c2c28f4fefd1cc645eddde
 
 ### Autor
 
